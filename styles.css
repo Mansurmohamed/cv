@@ -1,0 +1,22 @@
+body{
+  background-color: #CFDAC8;;
+}
+hr{
+
+  border-top-style: dotted;
+  border-right-style: none;
+  border-left-style: none;
+  border-bottom-style: none;
+  width: 88px;
+  border-color: Brown;
+border-width: 10px;
+}
+h1{
+  color: #ff4646;;
+}
+h2{
+  font-style: oblique;;
+}
+h3{
+  color: #ff4646;;
+}
